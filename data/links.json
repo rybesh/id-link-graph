@@ -1,0 +1,342 @@
+[
+  {
+    "description": "Southern Sea Otter (Enhydra lutris ssp. nereis)  Observed by jmaughn  December 14, 2015",
+    "links": [
+      {
+        "source": 0,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 4,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 5,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 6,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 7,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 8,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 10,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 11,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 12,
+        "value": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "http://www.inaturalist.org/observations/2479514"
+      },
+      {
+        "name": "http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514"
+      },
+      {
+        "name": "http://www.gbif.org/occurrence/1227752453"
+      },
+      {
+        "name": "http://www.gbif.org/species/6163936"
+      },
+      {
+        "name": "http://eol.org/pages/328583"
+      },
+      {
+        "name": "http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202390"
+      },
+      {
+        "name": "https://tree.opentreeoflife.org/taxonomy/browse?id=755862"
+      },
+      {
+        "name": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049777"
+      },
+      {
+        "name": "http://www.inaturalist.org/observations/2313726"
+      },
+      {
+        "name": "http://www.inaturalist.org/observations/2301476"
+      },
+      {
+        "name": "http://www.inaturalist.org/observations/1019786"
+      },
+      {
+        "name": "http://www.inaturalist.org/observations/1964813"
+      },
+      {
+        "name": "http://www.inaturalist.org/observations/2293215"
+      }
+    ]
+  },
+  {
+    "description": "Mus\u00e9um national d\u2019Histoire naturelle, Paris (France) Collection: Vertebrates - Reptiles and amphibians (RA) Specimen MNHN-RA-0.742",
+    "links": [
+      {
+        "source": 0,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 4,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 4,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 5,
+        "target": 2,
+        "value": 1
+      },
+      {
+        "source": 6,
+        "target": 7,
+        "value": 1
+      },
+      {
+        "source": 8,
+        "target": 7,
+        "value": 1
+      },
+      {
+        "source": 9,
+        "target": 8,
+        "value": 1
+      },
+      {
+        "source": 10,
+        "target": 8,
+        "value": 1
+      },
+      {
+        "source": 11,
+        "target": 8,
+        "value": 1
+      },
+      {
+        "source": 12,
+        "target": 13,
+        "value": 1
+      },
+      {
+        "source": 0,
+        "target": 8,
+        "value": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "https://peerj.com/articles/1553/"
+      },
+      {
+        "name": "MNHN RA 0.742"
+      },
+      {
+        "name": "MNHN 0.742"
+      },
+      {
+        "name": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/"
+      },
+      {
+        "name": "https://doi.org/10.7717/peerj.1553"
+      },
+      {
+        "name": "https://doi.org/10.7717/peerj.1553/fig-1"
+      },
+      {
+        "name": "https://science.mnhn.fr/institution/mnhn/collection/ra/item/0.742"
+      },
+      {
+        "name": "MNHN-RA-0.742"
+      },
+      {
+        "name": "http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742"
+      },
+      {
+        "name": "http://www.gbif.org/occurrence/440131294/"
+      },
+      {
+        "name": "https://www.idigbio.org/portal/records/7cd2e2f0-d54c-4215-8c3d-ad5da1adbf56"
+      },
+      {
+        "name": "http://portal.vertnet.org/o/mnhn/ra?id=0_742"
+      },
+      {
+        "name": "http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis"
+      },
+      {
+        "name": "MNHNP 0.742"
+      }
+    ]
+  },
+  {
+    "description": "Amaranthus retroflexus; YU.051351; North America; USA; Connecticut; New Haven County; New Haven; Daniel C. Eaton; 1859",
+    "links": [
+      {
+        "source": 0,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 2,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "value": 1
+      },
+      {
+        "source": 2,
+        "target": 4,
+        "value": 1
+      },
+      {
+        "source": 1,
+        "target": 4,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 4,
+        "value": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d"
+      },
+      {
+        "name": "http://collections.peabody.yale.edu/search/Record/YU.051351"
+      },
+      {
+        "name": "http://www.gbif.org/occurrence/1038963366"
+      },
+      {
+        "name": "http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0"
+      },
+      {
+        "name": "urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368"
+      }
+    ]
+  },
+  {
+    "description": "NMR 9991-07729, a partial cranium preserving the vertex, palatines, the right half of the braincase and basicranium, and the right periotic and tympanic bulla",
+    "links": [
+      {
+        "source": 0,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 2,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 3,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 4,
+        "target": 1,
+        "value": 1
+      },
+      {
+        "source": 5,
+        "target": 6,
+        "value": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "https://paleobiodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&taxon_no=335542"
+      },
+      {
+        "name": "NMR:9991-07729"
+      },
+      {
+        "name": "http://www.morphobank.org/index.php/Projects/Specimens/id/91904/project_id/2225"
+      },
+      {
+        "name": "http://doi.org/10.7717/peerj.1572"
+      },
+      {
+        "name": "http://doi.org/10.7934/P2225"
+      },
+      {
+        "name": "http://datasets.nlbif.nl/nmr/"
+      },
+      {
+        "name": "NMR999100007729"
+      }
+    ]
+  }
+]

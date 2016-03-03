@@ -12,7 +12,8 @@ To run:
     ```
 1. After a bit you should see the message `Server running at...` Now you can
    point a web browser to [http://localhost:9966](http://localhost:9966) and
-   view.
+   view. Click on the identifier groups in the table to show the visualization
+   of that group.
 
 
 The information about identifier links is taken from [`data/links.json`](data/links.json), which was generated from the two CSV files in the [`data`](data) directory using the [`links2graph.py`](links2graph.py) script:
